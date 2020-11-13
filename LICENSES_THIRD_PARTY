@@ -1,0 +1,18 @@
+--------------------------------------------------
+Third party dependencies listed by License type
+[Format: Name (Python module) - URL]
+--------------------------------------------------
+
+Apache Software License, Version 2.0
+* Annoy (annoy) - https://github.com/spotify/annoy/blob/master/LICENSE
+
+
+BSD 3-Clause License
+* NumPy (numpy) - https://github.com/numpy/numpy/blob/master/LICENSE.txt
+* pandas (pandas) - https://github.com/pandas-dev/pandas/blob/master/LICENSE
+* RDKit (rdkit) - https://github.com/rdkit/rdkit/blob/master/license.txt
+* scikit-learn (scikit-learn) - https://github.com/scikit-learn/scikit-learn/blob/master/COPYING
+* SciPy (scipy) - https://github.com/scipy/scipy/blob/master/LICENSE.txt
+
+
+
